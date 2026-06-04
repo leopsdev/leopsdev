@@ -16,3 +16,6 @@ Olá! Concluí minha graduação em Ciência da Computação na UFCA e venho con
     <img src="/public/site2.svg" alt="site">
   </a>
 </p>
+
+
+
