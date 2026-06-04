@@ -11,9 +11,9 @@ Concluí minha graduação em Ciência da Computação na UFCA e venho construin
     <img src="/public/lattes.svg" alt="Latter">
   </a>
   <a href="" target="_blank">
-    <img src="/public/linkedin.svg" alt="Linkedin">
+    <img src="/public/linkedin2.svg" alt="Linkedin">
   </a>
   <a href="https://leonardo-pereira-silva.vercel.app" target="_blank">
-    <img src="/public/site.svg" alt="site">
+    <img src="/public/site2.svg" alt="site">
   </a>
 </p>
