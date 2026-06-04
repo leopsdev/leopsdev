@@ -7,10 +7,10 @@ Concluí minha graduação em Ciência da Computação na UFCA e venho construin
 
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://lattes.cnpq.br/9740244958701761" target="_blank">
     <img src="/public/lattes.svg" alt="Latter">
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/ctrl-leo/" target="_blank">
     <img src="/public/linkedin2.svg" alt="Linkedin">
   </a>
   <a href="https://leonardo-pereira-silva.vercel.app" target="_blank">
