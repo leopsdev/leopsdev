@@ -3,7 +3,8 @@
 Olá! Sou fascinado por transformar ideias complexas em interfaces web modernas, limpas e focadas na experiência do usuário.
 Concluí minha graduação em Ciência da Computação na UFCA e venho construindo uma base sólida combinando desenvolvimento prático, engenharia de software e pesquisa acadêmica.
 
-## Entre em contato!
+<h2 align="center"> Entre em contato! </h2> 
+
 
 <p align="center">
   <a href="" target="_blank">
